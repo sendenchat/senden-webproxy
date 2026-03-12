@@ -1,4 +1,4 @@
 # senden-webproxy
 Senden Webproxy is for loading media on the senden platform
 
-## This is a mirror. View and contribute to the source code here: https://git.eplg.services/senden/senden-webproxy
+## View and contribute to the source code here: https://git.eplg.services/senden/senden-webproxy
